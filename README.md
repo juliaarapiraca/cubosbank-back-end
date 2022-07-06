@@ -4,6 +4,6 @@ Projeto criado como parte do desafio de Back-End do Módulo 2 do curso de Desenv
 Neste projeto, foi desenvolvida uma RESTful API para um Banco Digital, usando JavaScript, que permite:
 
 Criar conta bancária
-Listar contas bancárias
-Atualizar os dados do usuário da conta bancária
-Excluir uma conta bancária
+<br>Listar contas bancárias
+<br>Atualizar os dados do usuário da conta bancária
+<br>Excluir uma conta bancária
